@@ -42,13 +42,13 @@ Here's the Figma file for this challenge. We recommend that you duplicate this F
 
 ## Challenge and Constraints
 
-I considered the following constraints as I created my solution to the challenge:
+- I considered the following constraints as I created my solution to the challenge:
 
-I used 3 HTML, CSS and Vanilla Javascript for the challenge. No CSS or Javascript frameworks or libraries are allowed.
+- I used 3 HTML, CSS and Vanilla Javascript for the challenge. No CSS or Javascript frameworks or libraries are allowed.
 
-I used 3 files for my solution: index.html for my HTML, app.css for my CSS and app.js for my Javascript.
+- I used 3 files for my solution: index.html for my HTML, app.css for my CSS and app.js for my Javascript.
 
-I made sure every text I used is exactly as displayed on the Figma design. I did not use different text because the text will be used for your automatic submission evaluation.
+- I made sure every text I used is exactly as displayed on the Figma design. I did not use different text because the text will be used for your automatic submission evaluation.
 
 ## User Stories
 
