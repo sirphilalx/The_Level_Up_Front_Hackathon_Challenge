@@ -14,9 +14,9 @@ Before you proceed, please watch the 5 min video below for an introduction to th
 
 Shopify is a user-friendly e-commerce platform that helps small businesses build an online store and sell online through one streamlined dashboard. As a business, they strive to provide great user experiences to all their users, including keyboard-only users, visually impaired users
 
-## My Challenge
+## The Challenge
 
-My challenge was to build the merchant onboarding experience as per the Figma design provide to me. I catered for the three most popular types of Shopify merchants:
+The challenge was to build the merchant onboarding experience as per the Figma design provide to me. I catered for the three most popular types of Shopify merchants:
 
 1. Mouse users
 2. Keyboard-only users
