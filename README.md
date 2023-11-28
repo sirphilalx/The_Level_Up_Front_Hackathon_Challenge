@@ -42,7 +42,7 @@ Here's the Figma file for this challenge. We recommend that you duplicate this F
 
 ## Challenge and Constraints
 
-- I considered the following constraints as I created my solution to the challenge:
+I considered the following constraints as I created my solution to the challenge:
 
 - I used 3 HTML, CSS and Vanilla Javascript for the challenge. No CSS or Javascript frameworks or libraries are allowed.
 
